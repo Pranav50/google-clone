@@ -1,0 +1,10 @@
+1. Data must be stored in localstroage on Page Redirect
+
+REACT_APP_GOOGLE_KEY=AIzaSyDIH5DvPTnWcL4Z870WXq1PxNLV8T6vwD0
+REACT_APP_GOOGLE_CONTEXT_KEY=46685064a1cf23fc0
+
+// export const API_KEY = "AIzaSyCzqvP75mD1E2huq8QQ6vvYQ_I4F4RL72A" --> pranavpwr815@gmail.com
+// export const API_KEY = "AIzaSyCzqvP75mD1E2huq8QQ6vvYQ_I4F4RL72A" --> prakashpatil500500@gmail.com
+
+// const CONTEXT_KEY = 'fa09d680d6ab42017' --> prakashpatil500500@gmail.com
+//const CONTEXT_KEY = '46685064a1cf23fc0' --> pranavpwr815@gmail.com
